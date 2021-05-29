@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class PubMed {
 	
 	@Test
-	public static void getAbstractText1() {
+	public static void getAbstractText2() {
         // declaration and instantiation of objects/variables
     	//System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
 		//WebDriver driver = new FirefoxDriver();
